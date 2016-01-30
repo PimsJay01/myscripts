@@ -5,6 +5,7 @@ My personnal scripts
 
 - reset_bluetooth  Reset bluetooth
 - unlock_apt_get   Unlock apt-get after update or installation problem
+- update_personal_fonts	Update font from folder ~/.fonts/
 
 ## Fix wifi issues
 
